@@ -1,0 +1,10 @@
+.DS_Store
+venv
+*.pyc
+staticfiles
+.env
+env/
+*.sqlite3
+latest.dump
+.idea/
+.vscode/
